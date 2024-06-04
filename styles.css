@@ -186,6 +186,10 @@ header img {
     text-align: center;
 }
 
+.remo{
+    font-size: 1.10rem;
+}
+
 .hero-background {
     position: absolute;
     top: 0;
@@ -199,6 +203,7 @@ header img {
 .card-body{
     line-height: 30px;
     font-size: 20px;
+    
 }
 .divider {
     border-top: 1px solid #ccc; /* Divider style */
@@ -603,6 +608,8 @@ footer a img:hover {
         width:max-content; /* Ensures nav items display horizontally */
     }
 
+    
+    
     .contact-card {
         font-size: 0.9em;
     }
